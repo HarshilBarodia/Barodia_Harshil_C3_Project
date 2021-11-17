@@ -30,7 +30,7 @@ public class Restaurant {
 
     public List<Item> getMenu() {
         return this.menu;
-    }
+      }
 
     private Item findItemByName(String itemName){
         for(Item item: menu) {
