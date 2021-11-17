@@ -11,7 +11,7 @@ public class RestaurantService {
                 return true;
             }
         }
-    }
+     }
 
 
     public Restaurant addRestaurant(String name, String location, LocalTime openingTime, LocalTime closingTime) {
